@@ -11,4 +11,8 @@ Puzzle-platformer built by a team of 5 on our own custom C++ engine (SIT–DigiP
 C++ · custom engine · ImGui · CMake · Visual Studio
 
 ## Screenshots
-(add screenshots / GIF here)
+![Title screen](EmberEscape3.png)
+
+![Gameplay](EmberEscape1.png)
+
+![Gameplay – ice block puzzle](EmberEscape2.png)
