@@ -1,4 +1,4 @@
-# Ember Escape
+# Ember's Escape
 Puzzle-platformer built by a team of 5 on our own custom C++ engine (SIT–DigiPen, 2025–2026).
 
 > Source code is in a private school repository. This page describes my contributions.
